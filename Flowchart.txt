@@ -1,0 +1,32 @@
+Start
+  |
+  v
+[Customer Input]
+  |
+  v
+[Order Form Component]
+  |
+  v
+[Validation and Submit]
+  |
+  v
+[API: Create Order]
+  |
+  v
+[Order Success]
+  |
+  v
+[Status Checker Component] --> [API: Get Order Status]
+  |
+  v
+[Display Order Status]
+
+Optional:
+  |
+  v
+[Settings Component] --> [Storage Management]
+  |
+  v
+[Update Settings]
+
+End
